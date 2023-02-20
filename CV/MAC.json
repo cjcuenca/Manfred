@@ -1,0 +1,105 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Carlos",
+      "surnames": "Cuenca Paños",
+      "title": "Data Science Consultant and Coach | Python | Machine Learning | Data Mining | Big Data | Deep Learning | AI Engineer",
+      "description": "Expert Data Scientist with a passion for uncovering hidden stories within big data. Uses data science tools and techniques to analyse and explore big data, visualise and communicate the key messages and collaborate with others to make evidence-based decisions and improvements to their services. \n\nBuilding on 20 years experience in Consulting, Marketing and System Integration: including Business Development, Strategic Management, Customer Management, leading multidisciplinary teams and suppliers.\n\nCustomer and results orientated, quick-thinking and pro-active, with drive and energy to act in a fast-paced environment.\n\nMy main passion is my Family first and secondly, the development of new business opportunities as Data Science. I have a special ability to adapt to changing environments and to build solid external and internal business relationships.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/carloscuencaDataScience"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Global Alumni"
+        },
+        "roles": [
+          {
+            "name": "Learning Facilitator",
+            "startDate": "2000-04-01",
+            "challenges": [
+              {
+                "description": "Understanding Organizational Strategy and Capabilities \nSystem Thinking \nCritical Thinking\n (1st US University for Computer Science)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Knowmad · Profesional independiente"
+        },
+        "roles": [
+          {
+            "name": "External Data Scientist Consultant",
+            "startDate": "2000-04-01",
+            "challenges": [
+              {
+                "description": "• External advisor applying data science skills to support agile project development teams by providing insights from big data to enable evidence-based decision making:\n - Management of SQL and NoSQL databases with PostgreSQL and MongosDB\n - Python with Visual Studio and Jupyter notebook\n - Biga Data, Data Mining, Vaex, Dask, Spark\n - Machine Learning, DeepLearning & IA\n• Training (DataScience, Machine Learning, Design Thinking, Project Management, SCRUM, Kanban, Agile Project Management)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/carloscuencaDataScience"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
