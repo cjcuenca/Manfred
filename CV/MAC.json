@@ -104,6 +104,12 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Data Engineer",
+        "Data Scientist"
+      ]
+    },
     "status": "searchingActively"
   }
 }
