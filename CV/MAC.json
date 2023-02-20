@@ -15,10 +15,17 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/4a66fd37-ae76-4a7f-ada8-0444aa8f9042_carlos.png"
       },
       "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
         "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/cjcuenca"
+      },
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/carloscuencaDataScience"
