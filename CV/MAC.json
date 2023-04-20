@@ -72,7 +72,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Native or bilingual proficiency"
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "French",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
